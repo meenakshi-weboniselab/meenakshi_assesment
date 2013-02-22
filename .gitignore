@@ -1,0 +1,15 @@
+/app/Config
+/app/tmp
+/lib/Cake/Console/Templates/skel/tmp/
+/plugins
+/vendors
+/build
+/dist
+.DS_Store
+/tags
+
+.idea
+/app/Config/database.php
+/app/Config/core.php
+/app/tmp/*
+.DS_STORE

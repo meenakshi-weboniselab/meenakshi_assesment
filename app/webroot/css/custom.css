@@ -1,0 +1,26 @@
+.inner-footer {
+    min-height: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #e9e9e9;
+    background-image: -moz-linear-gradient(top,#eee,#e1e1e1);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#eee),to(#e1e1e1));
+    background-image: -webkit-linear-gradient(top,#eee,#e1e1e1);
+    background-image: -o-linear-gradient(top,#eee,#e1e1e1);
+    background-image: linear-gradient(to bottom,#eee,#e1e1e1);
+    background-repeat: repeat-x;
+    border: 1px solid #ccc;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeeeeee',endColorstr='#ffe1e1e1',GradientType=0);
+    -webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.065);
+    -moz-box-shadow: 0 1px 4px rgba(0,0,0,0.065);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.065);
+}
+.containerMrgn {
+    margin-top: 48px;
+}
+.footer {
+    margin-top: 309px;
+}
+.form-actions {
+    background-color: #ffffff;
+}
